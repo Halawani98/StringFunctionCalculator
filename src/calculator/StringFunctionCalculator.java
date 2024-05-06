@@ -1,5 +1,8 @@
 package calculator;
 
+/**
+ * @author Anas Al-Halawani
+ */
 public class StringFunctionCalculator {
 
     public static void findMaxSubstringValue(String t) {

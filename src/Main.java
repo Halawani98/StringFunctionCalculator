@@ -2,6 +2,9 @@ import calculator.StringFunctionCalculator;
 
 import java.util.Scanner;
 
+/**
+ * @author Anas Al-Halawani
+ */
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
